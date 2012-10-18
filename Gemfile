@@ -45,5 +45,6 @@ end
 group :test do
   gem 'rspec', '2.11.0'
   gem 'webrat', '0.7.3'
+  gem 'spork', '0.9.2'
   gem 'sqlite3'
 end
